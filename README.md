@@ -1,6 +1,7 @@
 # Lab 4 — JavaScript Core
 
 **Repository:** js-core-zhuman
+**Author:** Zhuman Ayan
 
 ## How to run tests
 1. Install dependencies: `npm install`
